@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632361644 source:c:\users\bruno\onedrive - universidad de guadalajara\desktop\cuarto\algoritmia\220331615_garcia_braulio_israel_practica4\selectionsort\main.cpp
+	<iostream>
+	<locale.h>
+	<vector>
+	<string.h>
+
